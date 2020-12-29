@@ -1,7 +1,7 @@
 {
-  "name": "notes-app",
-  "version": "0.1.0",
-  "description": "My Chrome Extension",
+  "name": "@pyxeldev/notes-app",
+  "version": "1.0.0",
+  "description": "A simple notes app for Chrome, with Markdown support",
   "private": true,
   "scripts": {
     "watch": "webpack --mode=development --watch --config config/webpack.config.js",
@@ -16,5 +16,9 @@
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12",
     "webpack-merge": "^5.7.3"
+  },
+  "dependencies": {
+    "@pyxeldev/reset-css": "^1.1.0",
+    "easymde": "^2.13.0"
   }
 }

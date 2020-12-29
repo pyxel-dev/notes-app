@@ -1,15 +1,15 @@
 # <img src="public/icons/icon_48.png" width="45" align="left"> Notes App
 
-My Chrome Extension
+A simple notes app for Chrome, with Markdown support
 
 ## Features
 
-- Feature 1
-- Feature 2
+- Markdown support
+- Local storage support
 
 ## Install
 
-[**Chrome** extension]() <!-- TODO: Add chrome extension link inside parenthesis -->
+[**Chrome** extension]()
 
 ## Contribution
 

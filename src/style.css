@@ -1,0 +1,15 @@
+@import url('~easymde/dist/easymde.min.css');
+@import url('~@pyxeldev/reset-css/reset.min.css');
+
+#popup {
+  width: 600px;
+}
+
+.EasyMDEContainer .CodeMirror {
+  border: none;
+}
+
+.editor-toolbar {
+  border: none;
+  border-bottom: thin solid #bbb;
+}
