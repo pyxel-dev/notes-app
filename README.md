@@ -9,7 +9,7 @@ A simple notes app for Chrome, with Markdown support
 
 ## Install
 
-[**Chrome** extension]()
+[**Chrome** extension](https://chrome.google.com/webstore/detail/notes-app/icajknjflhhjdeeggjkcfmbcifegdfkl)
 
 ## Contribution
 
